@@ -1,2 +1,2 @@
-# -NotoLab
- NotoLab note
+# NoteLab
+ NoteLab note
